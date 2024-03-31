@@ -341,7 +341,7 @@ function files(index) {
     animasi/male0297.png
     animasi/male0298.png
     animasi/male0299.png
-    animasi/male0300.png
+    animasi/male0300.png    
    `;
   return data.split("\n")[index];
 }
